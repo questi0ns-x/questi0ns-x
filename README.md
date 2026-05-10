@@ -66,36 +66,9 @@ local questi0ns = {
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-[![NoEnvironmentAudio-JR](https://github-readme-stats.vercel.app/api/pin/?username=questi0ns-x&repo=NoEnvironmentAudio-JR&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=6e40c9)](https://github.com/questi0ns-x/NoEnvironmentAudio-JR)
-[![nonpc-jr](https://github-readme-stats.vercel.app/api/pin/?username=questi0ns-x&repo=nonpc-jr&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=6e40c9)](https://github.com/questi0ns-x/nonpc-jr)
-
-[![NoCarRadio-JR](https://github-readme-stats.vercel.app/api/pin/?username=questi0ns-x&repo=NoCarRadio-JR&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=6e40c9)](https://github.com/questi0ns-x/NoCarRadio-JR)
-[![HandsUp-JR](https://github-readme-stats.vercel.app/api/pin/?username=questi0ns-x&repo=HandsUp-JR&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=6e40c9)](https://github.com/questi0ns-x/HandsUp-JR)
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/questi0ns-x/questi0ns-x/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
-> ⚠️ **Para activar la serpiente:** crea el archivo `.github/workflows/snake.yml` en este mismo repo con la GitHub Action `Platane/snk`. Se genera automáticamente cada día.
-
----
-
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:000000&height=120&section=footer" />
 
-*"El silencio es el mejor mod."*
 
 </div>
