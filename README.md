@@ -70,7 +70,7 @@ local questi0ns = {
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/questi0ns-x/questi0ns-x/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github.com/questi0ns-x/questi0ns-x/blob/output/github-contribution-grid-snake-dark.svg?raw=true)
 
 </div>
 
