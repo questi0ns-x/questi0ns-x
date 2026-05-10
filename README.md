@@ -66,15 +66,6 @@ local questi0ns = {
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://github.com/questi0ns-x/questi0ns-x/blob/output/github-contribution-grid-snake-dark.svg?raw=true)
-
-</div>
-
----
 
 <div align="center">
 
